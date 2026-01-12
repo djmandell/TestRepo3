@@ -55,6 +55,3 @@ else if (instance_exists(obj_fridge) && distance_to_object(obj_fridge) < 8 && ke
 
     room_goto(rm_fridge_open);
 }
-
-else if (instance_exists(obj_dialog_starter) && distance_to_object(obj_dialog_starter) < 8 && keyboard_check(ord("E")))
-    instance_create_depth(0, 0, 0, obj_dialog_sample_a)

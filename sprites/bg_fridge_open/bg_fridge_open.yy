@@ -14,11 +14,12 @@
   "frames":[
     {"$GMSpriteFrame":"","%Name":"35bdfb0f-58e5-4307-8303-828a8d8465fd","name":"35bdfb0f-58e5-4307-8303-828a8d8465fd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
-  "gridX":0,
-  "gridY":0,
+  "gridX":32,
+  "gridY":32,
   "height":180,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"b323db3f-148b-4c19-816c-8fb9a3f112d6","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"b323db3f-148b-4c19-816c-8fb9a3f112d6","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"6576a090-0be2-4ce0-8e39-d36de94042e5","blendMode":0,"displayName":"default","isLocked":false,"name":"6576a090-0be2-4ce0-8e39-d36de94042e5","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"bg_fridge_open",
